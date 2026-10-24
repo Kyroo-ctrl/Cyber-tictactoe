@@ -36,15 +36,19 @@ python cyber_tictactoe.py
 - Sound and music use `winsound`, which works on Windows only. On Mac and Linux the game uses the system bell and has no music.
 - Scores are not saved after the game is closed.
 
-## Documentation
-
-See the project documentation in the `docs` folder.
-
-## Credits
-
-- Minimax algorithm (standard game-tree search for Tic-Tac-Toe)
-- Python tkinter and winsound documentation
-
-## Members
-
-- [Enter your names here in alphabetical order (last name basis)]
+  ## Documentation
+  
+  https://1drv.ms/w/c/13180F5466354810/IQBf8TpDoRQsSImLTgosoixtAaeApwlisXsI_QRa7O4ar-M?e=YtZVa9
+  
+  ## Credits
+  
+  - Minimax algorithm (standard game-tree search for Tic-Tac-Toe)
+  - Python tkinter and winsound documentation
+  
+  ## Members
+  
+  - Abuncio Reymart
+  - Allesa Emily
+  - Diaz Eljohn
+- Duayan Angel
+- Decrito Jea Jean
