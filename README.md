@@ -24,7 +24,7 @@ Mini project for ITE 260 Computer Programming 1, College of Information Technolo
 ## How to Run
 
 1. Install [Python 3](https://www.python.org/downloads/). tkinter is already included.
-2. Download `cyber_tictactoe.py` from this repository.
+2. Download `tictactoe.py` from this repository.
 3. Open a terminal in the folder of the file and run:
 
 ```
