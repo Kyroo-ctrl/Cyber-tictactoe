@@ -1,4 +1,13 @@
+"""
+CYBER TIC-TAC-TOE (Python + tkinter only)
 
+SOURCES / CREDITS:
+- Minimax algorithm: standard game-tree search (Wikipedia: "Minimax").
+- tkinter GUI: https://docs.python.org/3/library/tkinter.html
+- Sound: winsound.Beep (Python docs, Windows only).
+
+KEYS: S = Start  P = Pause  X = Settings  C = Continue
+"""
 import tkinter as tk
 import threading, queue, random, time
 
